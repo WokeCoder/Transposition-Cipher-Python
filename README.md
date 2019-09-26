@@ -1,8 +1,8 @@
-#Transposition-Cipher-Python
+# Transposition-Cipher-Python
 
-##Purpose
+## Purpose
 
 The purspose of this project was create a simple Columnar Transposition Cipher using python.
 
-###Author
+### Author
 Tye Borden 
